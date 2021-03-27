@@ -1,7 +1,6 @@
 ### Hi there I'm Sandesh 👋
 
-<!--
-**padiyarsandesh/padiyarsandesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 🏡 [website][website] 
 🐦 [twitter][twitter] 
