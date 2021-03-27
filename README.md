@@ -1,14 +1,14 @@
-### Hi there 👋
+### Hi there I'm Sandesh 👋
 
 <!--
 **padiyarsandesh/padiyarsandesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|** 
-📺 [youtube][youtube] **|** 
-🎥 [twitch][twitch] **|** 
-📦 [npm][npm] **|** 
-📷 [instagram][instagram] **|** 
+🏡 [website][website] 
+🐦 [twitter][twitter] 
+📺 [youtube][youtube] 
+🎥 [twitch][twitch]
+📦 [npm][npm]
+📷 [instagram][instagram] 
 👔 [linkedin][linkedin]
 
 
@@ -23,6 +23,6 @@
 [twitter]: https://twitter.com/bradgarropy
 [youtube]: https://youtube.com/bradgarropy
 [twitch]: https://twitch.tv/bradgarropy
-[instagram]: https://instagram.com/bradgarropy
-[linkedin]: https://linkedin.com/in/bradgarropy
-[npm]: https://npmjs.com/~bradgarropy
+[instagram]: https://instagram.com/padiyar.sandesh
+[linkedin]: https://linkedin.com/in/padiyarsandesh
+
