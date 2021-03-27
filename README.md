@@ -11,5 +11,5 @@
 
 
 [instagram]: https://instagram.com/padiyar.sandesh
-[linkedin]: www.linkedin.com/in/sandesh-padiyar
+[linkedin]: https://linkedin.com/in/sandesh-padiyar
 
