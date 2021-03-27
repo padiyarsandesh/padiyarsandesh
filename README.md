@@ -11,7 +11,7 @@
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 
-[banner]: https://raw.githubusercontent.com/bradgarropy/bradgarropy/master/banner.png
+
 [adobe]: https://adobe.com
 [react]: http://reactjs.org
 [firebase]: https://firebase.google.com
