@@ -1,4 +1,4 @@
-### Hi there I'm Sandesh 👋
+### Hi there, I'm Sandesh 👋
 
 
 
@@ -11,5 +11,5 @@
 
 
 [instagram]: https://instagram.com/padiyar.sandesh
-[linkedin]: https://linkedin.com/in/padiyarsandesh
+[linkedin]: www.linkedin.com/in/sandesh-padiyar
 
